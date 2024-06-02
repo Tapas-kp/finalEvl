@@ -1,0 +1,14 @@
+#navbar{
+    display: flex;
+    justify-content: space-around;
+    border: 1px solid black;
+    padding: 10px;
+    background-color: rgb(165, 165, 181);
+    
+}
+#navbar>div{
+    /* border: 1px solid red; */
+    padding: 10px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    background-color: rgb(191, 203, 203);
+}
